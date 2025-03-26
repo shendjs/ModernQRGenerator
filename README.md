@@ -54,7 +54,7 @@ pip install qrcode[pil] pillow customtkinter
 
 4. Run the application:
 ```bash
-python qr_generator.py
+python qrgenerator.py
 ```
 
 ## Usage
