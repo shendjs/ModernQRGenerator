@@ -77,8 +77,8 @@ python qrgenerator.py
 ## Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/user/repo/main/screenshots/light-theme.png" width="49%" alt="Light Theme">
-  <img src="https://raw.githubusercontent.com/user/repo/main/screenshots/dark-theme.png" width="49%" alt="Dark Theme">
+  <img src="https://raw.githubusercontent.com/shendjs/ModernQRGenerator/main/screenshots/light-theme.png" width="49%" alt="Light Theme">
+  <img src="https://raw.githubusercontent.com/shendjs/ModernQRGenerator/main/screenshots/dark-theme.png" width="49%" alt="Dark Theme">
 </div>
 
 ## Dependencies
